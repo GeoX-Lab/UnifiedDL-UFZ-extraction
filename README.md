@@ -23,4 +23,4 @@ The file contains the function of creating distance heatmap (`creat_distance_hea
 - a zooming scale (default 10).
 You can also create the distance heatmap by ArcGIS (in ArcToolbox/Spatial Analyst Tools/Distance/Euclidean Distance)
 
-If there is any problem when you use this repository, never hesitate to contact us via salvial@csu.edu.cn.
+If any problem, please don't hesitate to contact us via salvial@csu.edu.cn.
