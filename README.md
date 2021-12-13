@@ -15,7 +15,7 @@ The models are in file "models.py". There are two essential classes in the file.
 This two classes is corresponding to two parts in our paper.
 
 ### distance_heatmap.py
-![Illustration of converting POIs into a hierarchical distance heatmap tensor]https://github.com/GeoX-Lab/UnifiedDL-UFZ-extraction/blob/main/figures/fig_h_map.png)
+![Illustration of converting POIs into a hierarchical distance heatmap tensor](https://github.com/GeoX-Lab/UnifiedDL-UFZ-extraction/blob/main/figures/fig_h_map.png)
 The file contains the function of creating distance heatmap (`creat_distance_heatmap`). The inputs are
 - a raster imagery with geoinformation, which implies the processing extend,
 - a file contains POIs,
