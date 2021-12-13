@@ -10,12 +10,12 @@ This repository is the code of "A Unified Deep Learning Framework for Urban Func
 ## Essential classes and function
 
 ### models.py
-![Flowchart of the proposed unified deep learning framework for UFZ extraction](https://github.com/SalviaL/UDF4UFZ/blob/main/figures/fig_framework.png)
+![Flowchart of the proposed unified deep learning framework for UFZ extraction](https://github.com/GeoX-Lab/UnifiedDL-UFZ-extraction/blob/main/figures/fig_framework.png)
 The models are in file "models.py". There are two essential classes in the file. the `complementary_fusion` and the `spatial_information_modeling`.
 This two classes is corresponding to two parts in our paper.
 
 ### distance_heatmap.py
-![Illustration of converting POIs into a hierarchical distance heatmap tensor](https://github.com/SalviaL/UDF4UFZ/blob/main/figures/fig_h_map.png)
+![Illustration of converting POIs into a hierarchical distance heatmap tensor]https://github.com/GeoX-Lab/UnifiedDL-UFZ-extraction/blob/main/figures/fig_h_map.png)
 The file contains the function of creating distance heatmap (`creat_distance_heatmap`). The inputs are
 - a raster imagery with geoinformation, which implies the processing extend,
 - a file contains POIs,
